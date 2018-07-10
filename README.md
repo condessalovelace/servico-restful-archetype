@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/condessalovelace/servicorestful.svg?branch=master)](https://travis-ci.org/condessalovelace/servicorestful) ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=br.com.condessalovelace%3Aservico-restful-archetype&metric=alert_status)
+
 # servico-restful-archetype
 
 Arquétipo para construir projetos de serviços Restful usando Spring Boot.
